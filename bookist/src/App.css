@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  
+}
+
+.header {
+  height: 6vh;
+  color: rgb(14, 175, 162);
+  box-shadow: 0px 5px 7px 0px rgba(0, 0, 0, 0.096);
+}
+
+.book-list {
+  height: 50vh;
+  width: 74%;
+  border-right: 1px solid black;
+  padding-left: 10px;
+  display: flex;
+  position: absolute;
+  top: 13vh;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.book-shelf {
+  height: 30vh;
+  width: 25%;
+  position: absolute;
+  right: 0px;
+  top: 13vh;
+  font-size: 10px;
+}
+
+.search-bar {
+  height: 2vh;
+  width: 40%;
+  position: absolute;
+  top: 10vh;
+  left: 30%;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
