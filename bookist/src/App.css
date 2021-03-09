@@ -10,13 +10,13 @@
 }
 
 .book-list {
-  height: 50vh;
+  height: 70vh;
   width: 74%;
   border-right: 1px solid black;
   padding-left: 10px;
   display: flex;
   position: absolute;
-  top: 13vh;
+  top: 15vh;
   align-items: flex-start;
   flex-wrap: wrap;
 }
@@ -26,7 +26,7 @@
   width: 25%;
   position: absolute;
   right: 0px;
-  top: 13vh;
+  top: 15vh;
   font-size: 10px;
 }
 
